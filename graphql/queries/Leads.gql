@@ -1,0 +1,8 @@
+query leads {
+  leads {
+    _id
+    email
+    createdAt
+    updatedAt
+  }
+}
